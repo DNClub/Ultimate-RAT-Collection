@@ -3,15 +3,14 @@
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Cryakl/Ultimate-RAT-Collection"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Cryakl/Ultimate-RAT-Collection">
 </p> <!-- Excuse this chunky part, i'm terrible at markdown. But hopefully this redesign is good enough. --!>
 
-<h1 align="center">Archive password: infected</h1><br>
+<h1 align="center">DN Club Rat Collection</h1><br>
 
 > [!CAUTION]
 > These samples should **not** be ran on any machine with data you care about.  
 > Please analyze them within a secure environment such as a virtual machine or sandbox.
 
 > [!NOTE]  
-> If you have any new samples, all contributions are fully welcomed.  
-> You can open a pull request *or* contact me privately on Telegram at [@Cryakl](https://t.me/Cryakl).  
+> All by DN Club
 
 > [!TIP]  
 > Some much larger samples are split into several parts.  
